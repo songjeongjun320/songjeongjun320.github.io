@@ -21,7 +21,7 @@ Beyond academics and professional work, I served in the [Hanbit Unit](https://ww
 
 I look forward to leveraging my expertise in **Machine Learning**, **OCR**, and **Full-Stack** development to contribute to innovative projects and continue my growth in the tech industry. Feel free to connect with me on LinkedIn or explore my work on GitHub.
 
-He loves to bring new ideas and share it with collaborators. Hello world! &#128525;
+
 
 ## Contact
 
