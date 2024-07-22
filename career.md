@@ -8,9 +8,14 @@ title: Professional Experience
 
 # Job Experience
 
-### Arizona State University, Tempe, AZ
-#### FURI Research Aide, May/2024 to Present
-##### Leading the Vision AI Insights Project: Applying Machine Learning and OCR Libraries to Solve Real-World Challenges with a Team of Three Members.
+### Arizona State University, Tempe, AZ 
+<table style="width:100%">
+  <tr>
+    <td>FURI Research Aide</td>
+    <td style="text-align: right;">May/2024 to Present</td>
+  </tr>
+</table>
+#### Leading the Vision AI Insights Project: Applying Machine Learning and OCR Libraries to Solve Real-World Challenges with a Team of Three Members.
 
 * YOLOv10 Analysis:
   * Analyzed YOLOv10's innovative NMS-Free Training, highlighting improved real-time performance by eliminating the Non-Maximum Suppression step.
@@ -24,8 +29,8 @@ title: Professional Experience
 * Web Application Development:
   * Developed a web application using HTML, CSS, JavaScript, and JavaFx, displaying OCR-extracted information, with backend processing and Docker deployment for scalability.
 
-### TestMidas, Inc.
-#### Senior Researcher,	2013 to 2014
+### NGL Transportation INC, Phoenix, AZ
+#### Software Engineering Intern, Jan 2022 to Jan 2023
 
 * Project: _**An open source-based testing tool for Cloud OS validation**_
   * Role: design and development of openstack validation tool, openstack-based cloud API testing.
