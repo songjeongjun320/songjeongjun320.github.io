@@ -2,7 +2,7 @@
 layout: page
 title: Software Engineer
 subtitle: Machine Learning & Computer Vision
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/jun-wallpaper.jpg
 ---
 
 <br/>
