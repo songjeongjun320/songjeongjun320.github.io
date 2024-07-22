@@ -8,14 +8,11 @@ title: Professional Experience
 
 # Job Experience
 
-### Arizona State University, Tempe, AZ 
-<table style="width:100%">
-  <tr>
-    <td>FURI Research Aide</td>
-    <td style="text-align: right;">May/2024 to Present</td>
-  </tr>
-</table>
-#### Leading the Vision AI Insights Project: Applying Machine Learning and OCR Libraries to Solve Real-World Challenges with a Team of Three Members.
+### Arizona State University, Tempe, AZ
+#### FURI Research Aide <span style="float: right;">5/2024 - Present</span>
+
+Leading the Vision AI Insights Project: Applying Machine Learning and OCR Libraries to Solve Real-World Challenges with a Team of Three Members.
+
 
 * YOLOv10 Analysis:
   * Analyzed YOLOv10's innovative NMS-Free Training, highlighting improved real-time performance by eliminating the Non-Maximum Suppression step.
