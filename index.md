@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: Software Engineer
+subtitle: Machine Learning & Computer Vision
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
