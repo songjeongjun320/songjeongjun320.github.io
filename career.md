@@ -8,6 +8,8 @@ title: Professional Experience
 
 # Job Experience
 
+---
+
 ### Arizona State University, Tempe, AZ
 #### FURI Research Aide <span style="float: right;">May/2024 - Present</span>
 
@@ -25,6 +27,8 @@ Leading the Vision AI Insights Project: Applying Machine Learning and OCR Librar
 
 * Web Application Development:
   * Developed a web application using HTML, CSS, JavaScript, and JavaFx, displaying OCR-extracted information, with backend processing and Docker deployment for scalability.
+
+---
 
 ### NGL Transportation INC, Phoenix, AZ
 #### Software Engineering Intern <span style="float: right;">Jan 2022 to Jan 2023</span>
@@ -53,6 +57,7 @@ Led the KPI Automatic Project, developed an executable program to automate data 
 * Converted the application into an executable (EXE) file and distributed it to all employees, resulting in increased work efficiency and streamlined operations.
   * Created and distributed an EXE application, boosting work efficiency and streamlining operations.
 
+---
 
 ### Gwangju Institute of Science and Technology (GIST)
 #### Ph.D. Student, 2009 to 2012
