@@ -1,22 +1,28 @@
 ---
 layout: page
-title: Research Career
+title: Professional Experience
 ---
 
 <br/>
 
 
-# Research Experience
+# Job Experience
 
-### Electronics and Telecommunications Research Institute
-#### Senior Researcher, 2014 to Present
+### Arizona State University, Tempe, AZ
+#### FURI Research Aide, May/2024 to Present
+##### Leading the Vision AI Insights Project: Applying Machine Learning and OCR Libraries to Solve Real-World Challenges with a Team of Three Members.
 
-* Project (ongoing): _**Multi-cloud service common framework**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+* YOLOv10 Analysis:
+  * Analyzed YOLOv10's innovative NMS-Free Training, highlighting improved real-time performance by eliminating the Non-Maximum Suppression step.
+
+* Effectiveness Evaluation:
+  * Demonstrated significant improvements in computational efficiency and model performance with YOLOv10's Spatial-Channel Decoupled DownSampling and Rank-Guided Block Design for real-time object detection.
+
+* Cost-Effective OCR Solution:
+  * Integrated PyTesseract for image quality assessment and Amazon Textract for high-quality image processing, optimizing resource use and minimizing transaction costs.
+
+* Web Application Development:
+  * Developed a web application using HTML, CSS, JavaScript, and JavaFx, displaying OCR-extracted information, with backend processing and Docker deployment for scalability.
 
 ### TestMidas, Inc.
 #### Senior Researcher,	2013 to 2014
