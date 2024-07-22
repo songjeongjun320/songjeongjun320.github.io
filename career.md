@@ -9,7 +9,7 @@ title: Professional Experience
 # Job Experience
 
 ### Arizona State University, Tempe, AZ
-#### FURI Research Aide <span style="float: right;">5/2024 - Present</span>
+#### FURI Research Aide <span style="float: right;">May/2024 - Present</span>
 
 Leading the Vision AI Insights Project: Applying Machine Learning and OCR Libraries to Solve Real-World Challenges with a Team of Three Members.
 
@@ -27,81 +27,38 @@ Leading the Vision AI Insights Project: Applying Machine Learning and OCR Librar
   * Developed a web application using HTML, CSS, JavaScript, and JavaFx, displaying OCR-extracted information, with backend processing and Docker deployment for scalability.
 
 ### NGL Transportation INC, Phoenix, AZ
-#### Software Engineering Intern, Jan 2022 to Jan 2023
+#### Software Engineering Intern <span style="float: right;">Jan 2022 to Jan 2023</span>
+Led an OCR Project to detect container numbers, significantly reducing truck transit times at the gate.
 
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation tool, openstack-based cloud API testing.
+* Enhanced image detection accuracy by 20% by developing and refining a YOLOv5 AI model for improved feature recognition in container images.
+  * Improved image detection accuracy by 20% with a refined YOLOv5 AI model.
+
+* Reduced image processing time by 30% using OpenCV for efficient image parsing and pre-processing workflows.
+  * Cut image processing time by 30% using OpenCV.
+
+* Streamlined real-time data integration by automating JSON data transmission via POST API to an AWS server, decreasing data entry errors by 15%.
+  * Automated JSON data transmission to AWS, reducing data entry errors by 15%.
+
+* Managed over 10,000 daily data transactions on AWS.
+  * Handled over 10,000 daily data transactions on AWS.
+
+Led the KPI Automatic Project, developed an executable program to automate data crawling tasks, significantly boosting operational efficiency.
+
+* Utilized Selenium to extract necessary information from web pages, achieving the desired result.
+  * Used Selenium to extract information from web pages successfully.
+
+* Automated data crawling tasks that typically took 20 minutes to complete manually, allowing for instant results with a click of a button and reducing task completion time by 80%.
+  * Automated data crawling, reducing task time by 80% and providing instant results.
+
+* Converted the application into an executable (EXE) file and distributed it to all employees, resulting in increased work efficiency and streamlined operations.
+  * Created and distributed an EXE application, boosting work efficiency and streamlining operations.
+
 
 ### Gwangju Institute of Science and Technology (GIST)
 #### Ph.D. Student, 2009 to 2012
 
 * Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
   * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
-
-### Gwangju Institute of Science and Technology (GIST)
-#### Master Student, 2006 to 2008
-
-* Project: _**Development of e-organ system based on cyber computing**_
-  * Role: development of a high resolution interactive brain visualization system (3D brain, MRI, and EIT images)
-* Project: _**Research on realistic digital broadcasting technology**_
-  * Role: development of a realistic broadcasting system
-* Project: _**Development of Immersive 3D networked virtual environment technology**_
-  * Role: development of a delay compensation mechanism to mitigate network delay problems in 3D network virtual environment with haptic devices
-
-<br/>
-
-# Professional Activity
-
-### Open Source Project Contribution
-
-* Kubernetes project contents owner
-  * Official member of Kubernetes organization (Github)
-  * Contributor of [Kubernetes/website](https://github.com/kubernetes/website) (approver/reviewer/contributor)
-  * Contributor of [Kubernetes/dashboard](https://github.com/kubernetes/dashboard) (approver/reviewer/contributor)
-* Cloud-Barista project owner
-  * Technical leader for [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug)
-  * Owner of [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) project (approver/reviewer/contributor)
-  * Owner of [Cloud-Barista/CB-Operator](https://github.com/cloud-barista/cb-operator) (approver/reviewer/contributor)
-* Github Profile: [https://github.com/seokho-son](https://github.com/seokho-son)
-
-### Reviewer for Reputed Journals
-
-* ACM Computing Surveys (ACM)
-* IEEE Transactions on Cloud Computing (IEEE)
-* IEEE Transactions on Service Computing (IEEE)
-* Journal of Supercomputing (Springer)
-* Information Systems Frontier (Springer)
-* International Journal of Cloud Computing (Inderscience)
-* ETRI Journal (Wiley)
-
-### International Standardization
-
-* ITU-T SG13 : main contributor of Y.csb-reqts (recommendation for cloud service brokerage requirements)
-  * Activities to obtain editorship of Y.csb-reqts document (Geneva, June 2016)
-  * 19 proposals (contributions) have been accepted for Y.csb-reqts
-* ITU-T SG13 : main contributor of Y.mc-reqts (recommendation for multi-cloud requirements)
-  * Activities to obtain editorship of Y.mc-reqts document (Geneva, June 2019)
-  * 3 proposals (contributions) have been accepted for Y.mc-reqts
-* Committee of [Korea ITU Committee](https://www.koreaitu.or.kr/)
-
-### Conference Committee
-
-* Paper Session Chair: The 2012 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA'12), Cloud Computing Session
-* Conference Committee: Mexico Satellite Session of IEEE BigData (Mexico City, May 8, 2014)
-
-### Invited Talk
-
-* Invited Talk regarding **_Introduction to Container-based Computing Platform (feat. Kubernetes)_**, 2020
-* Invited Talk regarding [**_Getting Involved in Kubernetes SIG Docs and Korean Localization_**](https://k8sforumseoul19eng.sched.com/event/WIRH/getting-involved-in-kubernetes-sig-docs-and-korean-localization-seokho-son-electronics-and-telecommunications-research-institute-etri-ian-choi-microsoft), Kubernetes Forum Seoul (LinuxFoundataion), 2019
-* Invited Talk regarding **_Cloud Computing with IoT_**, Handong-Univ., 2017
-* Invited Talk regarding **_Cloud Service Brokerage Systems_**, in the Education and Training for CSP experts sponsored by Consortium of Cloud Computing Research , 2016
-* Invited Talk regarding **_HPC over Cloud_**, in Korea Supercomputing Conference 2015, 2015
-* Invited Talk regarding **_HPC Cloud_**, in SCENT HPC Summer School at GIST, 2015
-* Invited Technical Committee for **_Cloud computing and Big data_**, National Computing & Information Agency (Government data center of Korea), 2012
-  * invited expert and lecturer of the SMART Cloud group in NCIA which is a national institute to operate information systems of Korea government. Made several lectures during a year regarding Cloud computing and big data to 30 public officials including senior civil servants.
-* Invited Expert for **_Cloud computing and parallel computing systems_**, Mokwon University in Korea, 2012-2013
-  * assisted a research team in Mokwon University to help the team construct a distributed computing system to process massive data from a large antenna.
-
 
 <br/>
 
