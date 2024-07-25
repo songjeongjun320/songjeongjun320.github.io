@@ -18,6 +18,9 @@ The Gateway OCR project is designed to automate the detection and extraction of 
 
 The primary objective of this project is to improve the accuracy and scalability of container number detection and extraction processes. By leveraging machine learning models and optimizing the OCR pipeline, the project aims to minimize missing transactions and provide sustainable, readable, and documented code.
 
+### Project Repository
+[OCR_CNTR_Number GitHub Repository](https://github.com/songjeongjun320/OCR_CNTR_Number)
+
 --- 
 
 ## Workflow
