@@ -5,6 +5,8 @@ subtitle: Machine Learning & Computer Vision
 cover-img: /assets/img/jun-wallpaper.jpg
 ---
 
+<h3>We dream because dreams can be realized.</h3>
+
 <br/>
 
 ## About me
