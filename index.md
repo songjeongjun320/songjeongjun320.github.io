@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Software Engineer
-subtitle: Machine Learning & Computer Vision
+subtitle: "Machine Learning & Computer Vision 
+\n\n We dream because dreams can be realized."
 cover-img: /assets/img/jun-wallpaper.jpg
 ---
-
-<h3>We dream because dreams can be realized.</h3>
 
 <br/>
 

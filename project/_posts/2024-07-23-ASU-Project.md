@@ -123,9 +123,9 @@ The project aims to develop a system for uploading and managing PDF files on a w
   - Set up SQL integration for main page
 
 ## LinkedIn Posts
-1. [First LinkedIn Post (1 month ago)](https://www.linkedin.com/posts/junsong0602_research-machinelearning-yolov8-activity-7208008590295465984-azLr?utm_source=share&utm_medium=member_desktop)
-2. [Second LinkedIn Post (3 weeks ago)](https://www.linkedin.com/posts/junsong0602_ai-machinelearning-yolo-activity-7212526873040277504-xzzy?utm_source=share&utm_medium=member_desktop)
-3. [Third LinkedIn Post (1 week ago)](https://www.linkedin.com/posts/junsong0602_ai-machinelearning-yolo-activity-7218802097410957313-92jS?utm_source=share&utm_medium=member_desktop)
+1. [First LinkedIn Post](https://www.linkedin.com/posts/junsong0602_ai-machinelearning-yolo-activity-7218802097410957313-92jS?utm_source=share&utm_medium=member_desktop)
+2. [Second LinkedIn Post](https://www.linkedin.com/posts/junsong0602_ai-machinelearning-yolo-activity-7212526873040277504-xzzy?utm_source=share&utm_medium=member_desktop)
+3. [Third LinkedIn Post](https://www.linkedin.com/posts/junsong0602_research-machinelearning-yolov8-activity-7208008590295465984-azLr?utm_source=share&utm_medium=member_desktop)
 
 ## Demo Videos
 <video width="320" height="240" controls>
