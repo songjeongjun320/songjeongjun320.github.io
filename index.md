@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Software Engineer
-subtitle: |
-  Machine Learning & Computer Vision 
-
-  We dream because dreams can be realized
+subtitle: Machine Learning & Computer Vision
+quote: We dream because dreams can be realized.
 cover-img: /assets/img/jun-wallpaper.jpg
 ---
 
