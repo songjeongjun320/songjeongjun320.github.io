@@ -86,5 +86,8 @@ The primary objective of this project is to improve the accuracy and scalability
 
 --- 
 
-## Repository
-For more details and source code, visit the [GitHub repository](https://github.com/songjeongjun320).
+## Demo Videos
+<video width="320" height="240" controls>
+  <source src="/assets/video/OCR_Project_Demo.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
