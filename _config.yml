@@ -252,3 +252,8 @@ prose:
 collections:
   pages:
     output: true
+
+# Include these files/folders in the production site
+include:
+  - assets
+  - assets/video
