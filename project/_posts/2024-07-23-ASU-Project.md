@@ -128,4 +128,4 @@ The project aims to develop a system for uploading and managing PDF files on a w
 3. [Third LinkedIn Post](https://www.linkedin.com/posts/junsong0602_research-machinelearning-yolov8-activity-7208008590295465984-azLr?utm_source=share&utm_medium=member_desktop)
 
 ## Demo Videos
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AhEH7NC7Qd0" frameborder="0" allowfullscreen></iframe>
+<iframe width="770" height="432" src="https://www.youtube.com/watch?v=AhEH7NC7Qd0" frameborder="0" allowfullscreen></iframe>
