@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Professional Experience
-cover-img: /assets/img/city.jpg
+cover-img: 
+  - "/assets/img/city.jpg" : "linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/img/city.jpg')"
+cover-img-style: "background-position: center bottom;"
 ---
 
 <br/>
