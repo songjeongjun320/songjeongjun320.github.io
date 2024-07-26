@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Professional Experience
+cover-img: /assets/img/city.jpg
 ---
 
 <br/>
