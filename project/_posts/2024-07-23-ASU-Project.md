@@ -132,3 +132,17 @@ The project aims to develop a system for uploading and managing PDF files on a w
 {% raw %}
 <iframe width="770" height="432" src="https://www.youtube.com/embed/AhEH7NC7Qd0" frameborder="0" allowfullscreen></iframe>
 {% endraw %}
+
+---
+
+## Other Projects
+
+Here are some other projects you might be interested in:
+
+<ul class="other-posts">
+  {% for post in site.posts %}
+    {% if post.title != page.title %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

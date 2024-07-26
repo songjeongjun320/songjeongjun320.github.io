@@ -92,3 +92,16 @@ The primary objective of this project is to improve the accuracy and scalability
 <iframe width="770" height="432" src="https://www.youtube.com/embed/N8f-Iv9cl1c" frameborder="0" allowfullscreen></iframe>
 {% endraw %}
 
+---
+
+## Other Projects
+
+Here are some other projects you might be interested in:
+
+<ul class="other-posts">
+  {% for post in site.posts %}
+    {% if post.title != page.title %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
