@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software Engineer
-subtitle: Machine Learning & Computer Vision
+subtitle: Full Stack Web Developer
 quote: We dream because dreams can be realized.
 cover-img: /assets/img/jun-wallpaper.jpg
 ---
@@ -21,8 +21,6 @@ In addition to my technical skills, I have experience automating data crawling t
 Beyond academics and professional work, I served in the [Hanbit Unit](https://www.koreaherald.com/view.php?ud=20200512000971) of the United Nations in South Sudan, where I was responsible for transporting personnel and providing interpretation services. This experience honed my leadership and teamwork skills in high-pressure environments.
 
 I look forward to leveraging my expertise in **Machine Learning**, **OCR**, and **Full-Stack** development to contribute to innovative projects and continue my growth in the tech industry. Feel free to connect with me on LinkedIn or explore my work on GitHub.
-
-
 
 ## Contact
 
