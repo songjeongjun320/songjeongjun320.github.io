@@ -7,6 +7,7 @@ gh-repo: songjeongjun320/jun-song.github.io
 gh-badge: [follow]
 cover-img: /assets/img/ocean1.jpg
 comments: true
+category: project
 ---
 
 # Gateway OCR Project
@@ -20,23 +21,28 @@ The Gateway OCR project is designed to automate the detection and extraction of 
 The primary objective of this project is to improve the accuracy and scalability of container number detection and extraction processes. By leveraging machine learning models and optimizing the OCR pipeline, the project aims to minimize missing transactions and provide sustainable, readable, and documented code.
 
 ### Project Repository
+
 [OCR_CNTR_Number GitHub Repository](https://github.com/songjeongjun320/OCR_CNTR_Number)
 
---- 
+---
 
 ## Workflow
 
 ### CCTV System (Synology)
+
 - A motion detection system captures images when movement is detected.
 - Images are sent to a file server via FTP and stored as “Sample_File”.
 
 ### Container Number Region Detection (YOLOv5)
+
 - YOLOv5 is used to detect the region containing the container number in the images or video files.
 
 ### Container Number Detection (NGL_OCR Engine)
+
 - The NGL_OCR engine processes images to detect and extract container numbers, making use of Tesseract OCR for text recognition.
 
 ### Upload to YMS
+
 - Extracted data, including date, time, and container number, is uploaded to the Yard Management System.
 
 ---
@@ -44,6 +50,7 @@ The primary objective of this project is to improve the accuracy and scalability
 ## Development History
 
 ### Key Milestones
+
 - **01/10/2022**: Initiated project planning and requirement gathering for the OCR system.
 - **01/25/2022**: Completed initial literature review on existing OCR technologies and image processing techniques.
 - **02/05/2022**: Set up development environment with necessary tools and libraries.
@@ -74,21 +81,25 @@ The primary objective of this project is to improve the accuracy and scalability
 ---
 
 ## Technologies Used
+
 - **Programming Language**: Python
 - **Libraries**: YOLOv5, Tesseract, OpenCV, NumPy, Matplotlib, TensorFlow
 - **Tools**: Synology, FTP, Yard Management System (YMS)
 
---- 
+---
 
 ## Success Metrics
+
 - Achieve higher detection accuracy to reduce missing transactions.
 - Ensure codes are sustainable, readable, and scalable for future development.
 
---- 
+---
 
 ## Demo Videos
+
 [Demo video: 30 seconds](https://www.youtube.com/watch?v=N8f-Iv9cl1c)
 {% raw %}
+
 <iframe width="770" height="432" src="https://www.youtube.com/embed/N8f-Iv9cl1c" frameborder="0" allowfullscreen></iframe>
 {% endraw %}
 
