@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Ethical Hackathon Project
-subtitle: AI-Powered Ethical Solutions for Data Security
+title: Ethical Hackathon - 2nd Prize 🏆
+subtitle: "Using AI LLama and Sentient model from Hugging face"
 order: 1
 gh-repo: songjeongjun320/jun-song.github.io
 gh-badge: [follow]
