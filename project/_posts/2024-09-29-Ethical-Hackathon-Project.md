@@ -7,6 +7,7 @@ gh-repo: songjeongjun320/jun-song.github.io
 gh-badge: [follow]
 cover-img: /assets/img/ocean2.jpg
 comments: true
+category: project
 ---
 
 # Ethical Hackathon - 2nd Prize 🏆
