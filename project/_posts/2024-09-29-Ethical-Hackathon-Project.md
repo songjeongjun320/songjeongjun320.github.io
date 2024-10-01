@@ -5,7 +5,7 @@ subtitle: "Using AI LLama and Sentient model from Hugging face"
 order: 1
 gh-repo: songjeongjun320/jun-song.github.io
 gh-badge: [follow]
-cover-img: /assets/img/ocean2.jpg
+cover-img: /assets/img/hackathon.jpeg
 comments: true
 category: project
 ---
