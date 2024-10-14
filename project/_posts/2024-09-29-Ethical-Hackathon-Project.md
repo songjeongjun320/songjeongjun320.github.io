@@ -2,7 +2,7 @@
 layout: post
 title: Ethical Hackathon - 2nd Prize 🏆
 subtitle: "Using AI LLama and Sentient model from Hugging face"
-order: 2
+order: 3
 gh-repo: songjeongjun320/jun-song.github.io
 gh-badge: [follow]
 cover-img: /assets/img/hackathon.jpg
