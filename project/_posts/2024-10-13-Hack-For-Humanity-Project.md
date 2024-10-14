@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacks for Humanity 2024 - MindVillage Project
+title: Hacks for Humanity 2024 - MindVillage
 subtitle: "Building a platform for mental health support"
 order: 1
 gh-repo: songjeongjun320/mindvillage
@@ -60,3 +60,5 @@ We hope **MindVillage** inspires others to engage with mental health support in 
 **Thank you**
 
 {% endraw %}
+
+---
