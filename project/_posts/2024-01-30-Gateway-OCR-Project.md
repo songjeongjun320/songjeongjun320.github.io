@@ -2,7 +2,7 @@
 layout: post
 title: Gateway OCR Project
 subtitle: AI-Powered Container Number Detection from CCTV Footage
-order: 2
+order: 4
 gh-repo: songjeongjun320/jun-song.github.io
 gh-badge: [follow]
 cover-img: /assets/img/ocean1.jpg

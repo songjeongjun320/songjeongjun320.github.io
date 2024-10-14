@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[LATEST] Building YMS(Yard Management System)"
+title: "Building YMS(Yard Management System)"
 subtitle: "Using Machine Learning and OCR(Optical Character Recognition) Technology"
 order: 3
 gh-repo: songjeongjun320/jun-song.github.io
