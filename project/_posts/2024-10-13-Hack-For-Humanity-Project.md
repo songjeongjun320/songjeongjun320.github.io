@@ -5,9 +5,10 @@ subtitle: "Building a platform for mental health support"
 order: 4
 gh-repo: songjeongjun320/mindvillage
 gh-badge: [follow]
-cover-img: /assets/img/mindvillage.jpg
+cover-img: /assets/img/mindvillage.png
 comments: true
 category: project
+published: true
 ---
 
 # Hacks for Humanity 2024 - MindVillage Project
