@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Business Contract Analyzer
+title: "Business Contract Analyzer"
 subtitle: "An efficient tool for PDF manipulation"
 order: 5
 gh-repo: songjeongjun320/jun-song.github.io

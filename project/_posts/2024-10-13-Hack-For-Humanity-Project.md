@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hacks for Humanity 2024 - MindVillage
+title: "Hacks for Humanity 2024 - MindVillage"
 subtitle: "Building a platform for mental health support"
 order: 4
 gh-repo: songjeongjun320/jun-song.github.io
