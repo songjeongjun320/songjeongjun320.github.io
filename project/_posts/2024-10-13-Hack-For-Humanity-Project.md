@@ -8,7 +8,6 @@ gh-badge: [follow]
 cover-img: /assets/img/mindvillage.png
 comments: true
 category: project
-published: true
 ---
 
 # Hacks for Humanity 2024 - MindVillage Project

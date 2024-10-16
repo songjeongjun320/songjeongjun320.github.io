@@ -10,7 +10,7 @@ cover-img: /assets/img/jun-wallpaper.jpg
 
 ## About me
 
-Hello, I'm **JeongJun Song**, a passionate **Computer Science** student at Arizona State University, with a projected graduation in **December 2025**. My journey in technology is driven by a love for solving real-world problems using machine learning and OCR technologies. Over the past two years, I've gained hands-on experience in full-stack development and object-oriented programming.
+Hello, I'm **(Jun) JeongJun Song**, a passionate **Computer Science** student at Arizona State University, with a projected graduation in **December 2025**. My journey in technology is driven by a love for solving real-world problems using machine learning and OCR technologies. Over the past two years, I've gained hands-on experience in full-stack development and object-oriented programming.
 
 Currently, I'm leading the Vision AI Insights Project as a **_FURI Research Aide_** at Arizona State University [Fulton Engineering School](https://students.engineering.asu.edu/furi/). In this role, I've conducted in-depth analyses of advanced machine learning models like **YOLOv10** and implemented cost-effective OCR solutions integrating **PyTesseract** and **AWS Textract**. My work has significantly improved real-time performance and resource utilization.
 

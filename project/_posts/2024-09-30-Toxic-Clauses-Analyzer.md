@@ -8,7 +8,6 @@ gh-badge: [follow]
 cover-img: /assets/img/ocean2.jpg
 comments: true
 category: project
-published: true
 ---
 
 # Business Contract Analyzer
