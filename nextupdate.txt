@@ -1,6 +1,0 @@
-1. Put reference from professor
-2. Explanation Project
-3. Update what can I put instead of them
-  # Publication: "publication"
-  # Blog: "blog"
-  # Project: "project"
