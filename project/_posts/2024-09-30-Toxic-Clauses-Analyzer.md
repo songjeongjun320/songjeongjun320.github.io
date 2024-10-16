@@ -40,9 +40,7 @@ Welcome to the official repository of **Business Contract Analyzer**:
 
 ### 🌟 **Final Remarks** 🌟
 
-At this year's Hacks for Humanity, our team worked together to merge ideas from both developers and non-developers, creating **Business Contract Analyzer**, a platform focused on addressing contract vulnerabilities. Although we didn't win an award, the experience of collaborating with diverse perspectives was incredibly valuable.
-
-We hope **Business Contract Analyzer** inspires others to engage with contract analysis in meaningful ways. Let's build a better digital space for everyone.
+💡This project's goal is to ensure that all individuals do not suffer through contracts and that everyone can enter into safe agreements.
 
 **Thank you**
 
