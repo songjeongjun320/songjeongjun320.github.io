@@ -60,3 +60,5 @@ We hope **MindVillage** inspires others to engage with mental health support in 
 **Thank you**
 
 ---
+
+<img src="/assets/img/mindvillage.png" style="opacity: 0.6; width: 100%;">
