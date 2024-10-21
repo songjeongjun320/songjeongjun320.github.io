@@ -42,5 +42,3 @@ Welcome to the official repository of **Business Contract Analyzer**:
 💡This project's goal is to ensure that all individuals do not suffer through contracts and that everyone can enter into safe agreements.
 
 **Thank you**
-
-{% endraw %}

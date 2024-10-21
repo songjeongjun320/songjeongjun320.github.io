@@ -59,6 +59,4 @@ We hope **MindVillage** inspires others to engage with mental health support in 
 
 **Thank you**
 
-{% endraw %}
-
 ---

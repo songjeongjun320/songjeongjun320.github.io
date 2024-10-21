@@ -178,9 +178,7 @@ Developing a real-time business web page for end users using Supabase, PostgreSQ
 ## Demo Videos
 
 [Demo video: 1 mins](https://www.youtube.com/watch?v=AhEH7NC7Qd0)
-{% raw %}
 
 <iframe width="770" height="432" src="https://www.youtube.com/embed/AhEH7NC7Qd0" frameborder="0" allowfullscreen></iframe>
-{% endraw %}
 
 ---

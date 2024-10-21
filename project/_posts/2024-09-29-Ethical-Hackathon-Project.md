@@ -38,7 +38,6 @@ Welcome to the official website of **Why don't you be more nicer?**:
 ## Demo Videos
 
 [Demo video: 1 mins](https://www.youtube.com/watch?v=zHLHY-VRkvw)
-{% raw %}
 
 ## Contributors 👥
 
@@ -55,7 +54,5 @@ Once again, we witness too many people hiding behind the internet to harm others
 We aim to build a more ethical internet culture and hope that our project contributes to this mission.
 
 **Thank you**
-
-{% endraw %}
 
 ---
