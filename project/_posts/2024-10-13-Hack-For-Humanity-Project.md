@@ -5,7 +5,7 @@ subtitle: "Building a platform for mental health support"
 order: 4
 gh-repo: songjeongjun320/jun-song.github.io
 gh-badge: [follow]
-cover-img: /assets/img/mindvillage.png
+cover-img: /assets/img/midvillage.png
 comments: true
 category: project
 ---
