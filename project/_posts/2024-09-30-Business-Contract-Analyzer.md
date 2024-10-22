@@ -14,7 +14,7 @@ category: project
 
 Welcome to the official repository of **Business Contract Analyzer**:  
 🚀 [Visit the site](https://business-contract-analyzer.vercel.app/)  
-🚀 [GitHub Repository](https://github.com/songjeongjun320/toxic_clauses_detector_in_business_contract)
+🚀 [GitHub Repository](https://github.com/songjeongjun320/business-contract-analyzer)
 🚀 [LinkedIn Post]()
 
 ## Project Overview
