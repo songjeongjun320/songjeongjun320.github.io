@@ -17,6 +17,7 @@ navbar-links:
   Project: "project"
   # Blog: "blog"
   Recommendation: "/assets/pdf/Recommendation.pdf"
+  LinkedIn: "https://www.linkedin.com/in/junsong0602/"
   GitHub: "https://github.com/songjeongjun320"
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
