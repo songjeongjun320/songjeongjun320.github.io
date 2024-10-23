@@ -10,17 +10,17 @@ cover-img: /assets/img/jun-wallpaper.jpg
 
 ## About me
 
-Hello, I'm **(Jun) JeongJun Song**, a passionate **Computer Science** student at Arizona State University, with a projected graduation in **December 2025**. My journey in technology is driven by a love for solving real-world problems using machine learning and OCR technologies. Over the past two years, I've gained hands-on experience in full-stack development and object-oriented programming.
+Hello! 😊 I'm **(Jun) JeongJun Song**, a passionate **Computer Science** student at **Arizona State University**, with a projected graduation in **December 2025**. I am currently working as a **FURI Researcher** at ASU, where I focus on leveraging **AI** and **Machine Learning** technologies. Previously, I interned at **NGL Transportation**, where I applied AI models to enhance operational efficiency. My journey is driven by a love for solving real-world problems and creating impactful solutions that enhance lives. 🌍
 
-Currently, I'm leading the Vision AI Insights Project as a **_FURI Research Aide_** at Arizona State University [Fulton Engineering School](https://students.engineering.asu.edu/furi/). In this role, I've conducted in-depth analyses of advanced machine learning models like **YOLOv10** and implemented cost-effective OCR solutions integrating **PyTesseract** and **AWS Textract**. My work has significantly improved real-time performance and resource utilization.
+Currently, I'm working on several exciting projects, including developing a **Yard Management System (YMS)** with **Professor Ryan Meuth**, using **machine learning object detection** to address logistical challenges. I'm also collaborating with **Professor Hitendra Chaturvedi** on a **Business Contract Analyzer** that detects toxic clauses to provide better contract recommendations for users. 📄✨
 
-Previously, I interned at [NGL Transportation INC](https://ngltrans.com/), where I enhanced image detection accuracy and reduced processing time through AI model development and efficient workflows. I also streamlined data integration processes and managed substantial daily data transactions on **AWS**.
+In addition, I developed apps like **MindVillage**, which support individuals dealing with depression and mental health issues. Through tools like **LLMs** and projects such as "_Why don't you be more nice(r)_", I am striving to foster an ethical and moral internet environment. 🧠💚
 
-In addition to my technical skills, I have experience automating data crawling tasks and converting applications into executable programs, which has greatly increased operational efficiency.
+I’m inspired by companies like **Lamborghini** 🚗, which started as a tractor company, **Samsung** 🛒, originally a grocery store, and **Steve Jobs** 🍏, who began Apple in garage. **Tesla** ⚡, once near bankruptcy, is now expanding humanity’s reach into space. 🚀 These stories inspire me to aim high, and while my journey may seem modest now, my ultimate goal is to achieve something meaningful that can inspire others in the future. 🌟
 
-Beyond academics and professional work, I served in the [Hanbit Unit](https://www.koreaherald.com/view.php?ud=20200512000971) of the United Nations in South Sudan, where I was responsible for transporting personnel and providing interpretation services. This experience honed my leadership and teamwork skills in high-pressure environments.
+Thank you for visiting my website. While I may seem inexperienced now, I’m committed to learning and growing continuously. I hope to be a source of inspiration for others in the next 10 or 20 years. 🌱
 
-I look forward to leveraging my expertise in **Machine Learning**, **OCR**, and **Full-Stack** development to contribute to innovative projects and continue my growth in the tech industry. Feel free to connect with me on LinkedIn or explore my work on GitHub.
+Feel free to connect with me here or check out my projects on [GitHub](https://github.com/songjeongjun320).
 
 ## Contact
 
