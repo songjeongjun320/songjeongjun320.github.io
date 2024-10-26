@@ -13,7 +13,7 @@ cover-img-style: "background-position: center bottom;"
 
 ### Arizona State University, Tempe, AZ
 
-#### Research Aide - Software Engineering Role <span style="float: right;">May/2024 - Present</span>
+#### Research Aide - Software Engineering Role <span style="float: right;">May 2024 - Present</span>
 
 Leading the Vision AI Insights Project: Applying Machine Learning and OCR Libraries to Solve Real-World Challenges with a Team of Three Members.
 
@@ -36,7 +36,7 @@ Leading the Vision AI Insights Project: Applying Machine Learning and OCR Librar
 
 ### NGL Transportation INC, Phoenix, AZ
 
-#### Software Engineering Intern <span style="float: right;">Jan 2022 to Jan 2023</span>
+#### Software Engineering Intern <span style="float: right;">Jan 2022 - Jan 2023</span>
 
 Led an OCR Project to detect container numbers, significantly reducing truck transit times at the gate.
 
