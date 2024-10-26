@@ -6,7 +6,7 @@ quote: We dream because dreams can be realized.
 cover-img: /assets/img/jun-wallpaper.jpg
 ---
 
-<br/>~
+<br/>
 
 ## About me
 
