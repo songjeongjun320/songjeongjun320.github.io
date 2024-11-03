@@ -13,8 +13,8 @@ category: project
 # Business Contract Analyzer
 
 Welcome to the official repository of **Business Contract Analyzer**:  
-🚀 [Visit the site](https://business-contract-analyzer.vercel.app/)  
-🚀 [GitHub Repository](https://github.com/songjeongjun320/business-contract-analyzer)
+🚀 [Visit the site](https://bsn-contract-analyzer.vercel.app/)  
+🚀 [GitHub Repository](https://github.com/songjeongjun320/business-contract-analyzer)  
 🚀 [LinkedIn Post]()
 
 ## Project Overview
@@ -30,15 +30,26 @@ Welcome to the official repository of **Business Contract Analyzer**:
 ## Tech Stack 🛠️
 
 - **Frontend**: Next.js
-- **Backend**: Python (PyPDF2 and pdfminer libraries)
+- **Backend**: Python (PyPDF2 and pdfminer libraries), AWS (EC2, Route 53, Load Balancer)
 - **Deployment**: Vercel
 - **Version Control**: GitHub
 - **Environment**: Node.js for server-side logic
 
 ---
 
+## AWS EC2 and HTTPS Setup 🔒
+
+To ensure secure communication and high availability for our backend server, we deployed our Flask application on an AWS EC2 instance and configured HTTPS with a load balancer. This setup involved several key steps:
+
+1. **Deployed an EC2 Instance**: The Flask server is hosted on an AWS EC2 instance to manage contract analysis requests efficiently.
+2. **Domain and SSL Certificate**: We registered a domain in AWS Route 53 and obtained an SSL certificate from AWS Certificate Manager (ACM) to enable HTTPS.
+3. **HTTPS Load Balancer**: Configured an AWS Application Load Balancer to handle HTTPS requests. All HTTP requests are automatically redirected to HTTPS for secure communication.
+4. **Security Groups and Port Management**: Set up security groups to allow only necessary ports (443 for HTTPS, 80 for HTTP redirect, and 5000 for internal communication) and ensure safe access control.
+
+Through this setup, **Business Contract Analyzer** provides a secure and scalable infrastructure for users, protecting sensitive data and offering a smooth experience on the platform.
+
 ### 🌟 **Final Remarks** 🌟
 
-💡This project's goal is to ensure that all individuals do not suffer through contracts and that everyone can enter into safe agreements.
+💡 This project's goal is to ensure that all individuals do not suffer through contracts and that everyone can enter into safe agreements.
 
 **Thank you**
