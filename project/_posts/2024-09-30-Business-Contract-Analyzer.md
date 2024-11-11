@@ -13,7 +13,7 @@ category: project
 # Business Contract Analyzer
 
 Welcome to the official repository of **Business Contract Analyzer**:  
-🚀 [Visit the Site](https://bsn-contract-analyzer.vercel.app/)  
+🚀 [Visit the Site](https://business-contract-analyzer.vercel.app/)  
 🚀 [GitHub Repository](https://github.com/songjeongjun320/business-contract-analyzer)  
 🚀 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7261619797505761280/)
 
@@ -101,7 +101,7 @@ Through this setup, **Business Contract Analyzer** provides a secure and scalabl
 
 ## Final Prototype Links 🚀
 
-- 🌐 [**Visit the Prototype**](https://bsn-contract-analyzer.vercel.app/)
+- 🌐 [**Visit the Prototype**](https://business-contract-analyzer.vercel.app/)
 - 📂 [**GitHub Repository**](https://github.com/songjeongjun320/business-contract-analyzer)
 
 ---
