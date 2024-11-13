@@ -106,6 +106,14 @@ Through this setup, **Business Contract Analyzer** provides a secure and scalabl
 
 ---
 
+## Demo Videos
+
+[Demo video: 60 seconds](https://www.youtube.com/watch?v=Gq83-TCbGyw&t=1s)
+
+<iframe width="770" height="432" src="https://www.youtube.com/watch?v=Gq83-TCbGyw&t=1s" frameborder="0" allowfullscreen></iframe>
+
+---
+
 ### 🌟 Final Remarks 🌟
 
 Reflecting on this journey, I realized that **coding and developing a product are distinct skills**. This project required understanding cloud infrastructure, secure communication, and deployment strategies beyond just programming. Every challenge taught me something invaluable and strengthened my appreciation for **full-stack development**.
