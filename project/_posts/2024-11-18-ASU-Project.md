@@ -20,7 +20,9 @@ The project aims to develop a system for uploading and managing PDF files on a w
 
 ### Project Repository
 
-[ASU_FURI_Project GitHub Repository](https://github.com/songjeongjun320/ASU_FURI_Project)
+🚀 [Visit the site](https://asu-furi-project.vercel.app/)  
+🚀 [GitHub Repository](https://github.com/songjeongjun320/ASU_FURI_Project)
+🚀 [LinkedIn Post](https://www.linkedin.com/posts/junsong0602_asu-ocr-project-poster-activity-7228136673174282240-VnH8?utm_source=share&utm_medium=member_desktop)
 
 ### Weekly Progress
 
@@ -167,13 +169,6 @@ The project aims to develop a system for uploading and managing PDF files on a w
 
 **Current Work:**
 Developing a real-time business web page for end users using Supabase, PostgreSQL, and Next.js.
-
-## LinkedIn Posts
-
-1. [First LinkedIn Post](https://www.linkedin.com/posts/junsong0602_ai-machinelearning-yolo-activity-7218802097410957313-92jS?utm_source=share&utm_medium=member_desktop)
-2. [Second LinkedIn Post](https://www.linkedin.com/posts/junsong0602_ai-machinelearning-yolo-activity-7212526873040277504-xzzy?utm_source=share&utm_medium=member_desktop)
-3. [Third LinkedIn Post](https://www.linkedin.com/posts/junsong0602_research-machinelearning-yolov8-activity-7208008590295465984-azLr?utm_source=share&utm_medium=member_desktop)
-4. [Fourth LinkedIn Post](https://www.linkedin.com/posts/junsong0602_asu-ocr-project-poster-activity-7228136673174282240-VnH8?utm_source=share&utm_medium=member_desktop)
 
 ## Demo Videos
 
