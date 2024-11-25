@@ -12,7 +12,7 @@ html {
 
 body {
   font-family: 'Lora', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 1.125rem;
+  font-size: 1.250rem;
   color: #b7b2b2;
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
