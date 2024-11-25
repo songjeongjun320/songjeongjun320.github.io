@@ -24,5 +24,5 @@ Feel free to connect with me here or check out my projects on [GitHub](https://g
 
 ## Contact
 
-Phone number: (+1) 623-889-4796
-Email: songjeongjun320@gmail.com
+- Phone number: (+1) 623-889-4796
+- Email: songjeongjun320@gmail.com
