@@ -76,16 +76,18 @@ excerpt_length: 50
 
 # --- Colours / background image --- #
 
-navbar-col: "linear-gradient(to right, #1e3c72, #2a5298)" # 그라데이션 효과
-navbar-text-col: "#FFFFFF" # 네비게이션 바 텍스트 색상 (밝은 흰색)
-navbar-border-col: "#2a5298" # 네비게이션 바 경계 색상 (보라-파란색 그라데이션 끝 색상)
+# [조건부수정] 디자인 색 변경
+# 우주 테마 색상 설정
+navbar-col: "#000033" # 네비게이션 바 배경 색상 (짙은 밤하늘 색)
+navbar-text-col: "#FFFFFF" # 네비게이션 바 텍스트 색상 (흰색)
+navbar-border-col: "#001133" # 네비게이션 바 경계 색상 (더 어두운 밤하늘 색)
 
-page-col: "#000000" # 페이지 배경 색상 (검정색, 우주 느낌)
-link-col: "#00C9FF" # 링크 색상 (밝은 하늘색)
-hover-col: "#FFD700" # 링크 호버 색상 (골드)
+page-col: "#000000" # 페이지 배경 색상 (검정)
+link-col: "#00BFFF" # 링크 색상 (밝은 파란색, 별빛 느낌)
+hover-col: "#FF69B4" # 링크 호버 색상 (은하수 느낌 핑크)
 
-footer-col: "#1e3c72" # 푸터 배경 색상 (네비게이션 바와 통일)
-footer-text-col: "#CCCCFF" # 푸터 텍스트 색상 (밝은 보라색)
+footer-col: "#000033" # 푸터 배경 색상 (밤하늘 색)
+footer-text-col: "#9999FF" # 푸터 텍스트 색상 (밝은 보라색)
 footer-link-col: "#FFFFFF" # 푸터 링크 색상 (흰색)
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
