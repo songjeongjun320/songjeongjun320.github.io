@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Building the ASU Bookstore Web App"
-subtitle: "Empowering Students with an Intuitive Textbook Platform"
+title: ""
+subtitle: ""
 order: 3
 gh-repo: songjeongjun320/Bookstore_project
 gh-badge: [follow]
