@@ -1,48 +1,83 @@
 .other-projects {
-    margin-top: 20px;
-  }
-  
-  .other-projects h3 {
-    font-size: 1.5em;
-  }
-  
-  .other-projects ul {
-    list-style: none;
-    padding: 0;
-  }
-  
-  .other-projects li {
-    margin-bottom: 10px;
-  }
-  
-  .other-projects a {
-    text-decoration: none;
-    color: #007bff;
-  }
-  
-  .other-projects a:hover {
-    text-decoration: underline;
-  }
-  
-  .scroll-to-top {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    width: 40px;
-    height: 40px;
-    background-color: #007bff;
-    color: white;
-    border: none;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    font-size: 20px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-    transition: background-color 0.3s;
-  }
-  
-  .scroll-to-top:hover {
-    background-color: #0056b3;
-  }
+  margin-top: 30px; /* 여백을 약간 더 넓게 설정 */
+}
+
+.other-projects h3 {
+  font-size: 1.75em; /* 제목 크기 약간 키움 */
+  color: #ffd700; /* 밝은 골드 색상 적용 */
+  text-transform: uppercase; /* 대문자로 변환 */
+  letter-spacing: 0.05em; /* 글자 간격 추가 */
+}
+
+.other-projects ul {
+  list-style: none; /* 기본 불릿 제거 */
+  padding: 0;
+  margin: 0;
+}
+
+.other-projects li {
+  margin-bottom: 15px; /* 각 항목 간 여백 추가 */
+  padding-left: 1.5rem; /* 아이콘과 텍스트 간 간격 확보 */
+  position: relative; /* 아이콘 배치 조정을 위해 추가 */
+}
+
+.other-projects li::before {
+  content: "★"; /* 별 아이콘 사용 */
+  color: #00bfff; /* 아이콘 색상을 하늘색으로 */
+  position: absolute;
+  left: 0; /* 텍스트 왼쪽에 배치 */
+  font-size: 1.2em;
+  top: 0;
+}
+
+.other-projects a {
+  text-decoration: none; /* 밑줄 제거 */
+  color: #00bfff; /* 하늘색 텍스트 */
+  font-weight: bold;
+  transition: color 0.3s ease, text-shadow 0.3s ease;
+}
+
+.other-projects a:hover {
+  text-decoration: underline; /* 호버 시 밑줄 추가 */
+  color: #ffd700; /* 골드 색상 */
+  text-shadow: 0 0 8px #ffd700; /* 텍스트에 빛나는 효과 */
+}
+
+/* Scroll to top button */
+.scroll-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 50px; /* 크기를 키움 */
+  height: 50px;
+  background: linear-gradient(
+    to bottom right,
+    #1e3c72,
+    #2a5298
+  ); /* 세련된 그라데이션 */
+  color: white;
+  border: none;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 24px; /* 아이콘 크기 증가 */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* 더 깊은 그림자 */
+  transition: transform 0.3s ease, background 0.3s ease, box-shadow 0.3s ease;
+}
+
+.scroll-to-top:hover {
+  background: linear-gradient(
+    to bottom right,
+    #0056b3,
+    #007bff
+  ); /* 호버 시 색상 변경 */
+  transform: scale(1.1); /* 살짝 확대 효과 */
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.7); /* 그림자 강조 */
+}
+
+.scroll-to-top:active {
+  transform: scale(0.95); /* 클릭 시 살짝 축소 */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5); /* 클릭 시 그림자 축소 */
+}
