@@ -2,7 +2,7 @@
 layout: page
 title: Software Engineer
 subtitle: Full Stack Web Developer
-quote: We dream because dreams can be realized.
+quote: you can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.
 cover-img: /assets/img/jun-wallpaper.jpg
 ---
 
