@@ -77,17 +77,18 @@ excerpt_length: 50
 # --- Colours / background image --- #
 
 # [조건부수정] 디자인 색 변경
-# Personalize the colors in your website. Colour values can be any valid CSS colour
+# 우주 테마 색상 설정
+navbar-col: "#000033" # 네비게이션 바 배경 색상 (짙은 밤하늘 색)
+navbar-text-col: "#FFFFFF" # 네비게이션 바 텍스트 색상 (흰색)
+navbar-border-col: "#001133" # 네비게이션 바 경계 색상 (더 어두운 밤하늘 색)
 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-border-col: "#EAEAEA"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+page-col: "#000000" # 페이지 배경 색상 (검정)
+link-col: "#00BFFF" # 링크 색상 (밝은 파란색, 별빛 느낌)
+hover-col: "#FF69B4" # 링크 호버 색상 (은하수 느낌 핑크)
+
+footer-col: "#000033" # 푸터 배경 색상 (밤하늘 색)
+footer-text-col: "#9999FF" # 푸터 텍스트 색상 (밝은 보라색)
+footer-link-col: "#FFFFFF" # 푸터 링크 색상 (흰색)
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
