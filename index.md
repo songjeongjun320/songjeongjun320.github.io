@@ -8,21 +8,33 @@ cover-img: /assets/img/jun-wallpaper.jpg
 
 <br/>
 
-## About me
+# About Me
 
-Hello! 😊 I'm **(Jun) JeongJun Song**, a passionate **Computer Science** student at **Arizona State University**, with a projected graduation in **December 2025**. I am currently working as a **FURI Researcher** at ASU, where I focus on leveraging **AI** and **Machine Learning** technologies. Previously, I interned at **NGL Transportation**, where I applied AI models to enhance operational efficiency. My journey is driven by a love for solving real-world problems and creating impactful solutions that enhance lives. 🌍
+Hello, my name is **(Jun) JeongJun Song**, and I am a dedicated **Computer Science** student at **Arizona State University**, with an expected graduation date of **December 2025**.
 
-Currently, I'm working on several exciting projects, including developing a **Yard Management System (YMS)** with **Professor Ryan Meuth**, using **machine learning object detection** to address logistical challenges. I'm also collaborating with **Professor Hitendra Chaturvedi** on a **Business Contract Analyzer** that detects toxic clauses to provide better contract recommendations for users. 📄✨
+## Current Roles
 
-In addition, I developed apps like **MindVillage**, which support individuals dealing with depression and mental health issues. Through tools like **LLMs** and projects such as "_Why don't you be more nice(r)_", I am striving to foster an ethical and moral internet environment. 🧠💚
+- **Fulton Undergraduate Research Initiative (FURI) Researcher**: Focusing on applying **AI** and **Machine Learning** technologies to solve real-world problems.
+- **Research Collaborator**: Developing innovative solutions in logistics and business operations with faculty at ASU.
 
-I’m inspired by companies like **Lamborghini** 🚗, which started as a tractor company, **Samsung** 🛒, originally a grocery store, and **Steve Jobs** 🍏, who began Apple in garage. **Tesla** ⚡, once near bankruptcy, is now expanding humanity’s reach into space. 🚀 These stories inspire me to aim high, and while my journey may seem modest now, my ultimate goal is to achieve something meaningful that can inspire others in the future. 🌟
+## Experience
 
-Thank you for visiting my website. While I may seem inexperienced now, I’m committed to learning and growing continuously. I hope to be a source of inspiration for others in the next 10 or 20 years. 🌱
+- **NGL Transportation (Intern)**: Integrated AI models to improve operational efficiency, gaining practical experience in applying machine learning solutions to real-world challenges.
+- **Research Projects**:
+  - **Yard Management System (YMS)** with **Professor Ryan Meuth**: Leveraging **machine learning object detection** to address logistical inefficiencies.
+  - **Business Contract Analyzer** with **Professor Hitendra Chaturvedi**: Detecting toxic clauses in contracts and providing enhanced recommendations using AI technologies.
+  - **MindVillage Application**: A mental health support platform designed to assist individuals facing depression and other challenges.
 
-Feel free to connect with me here or check out my projects on [GitHub](https://github.com/songjeongjun320).
+## Motivation
+
+I draw inspiration from the transformational journeys of organizations like **Lamborghini**, **Samsung**, and **Tesla**, as well as the innovative legacy of leaders such as **Steve Jobs**. These stories remind me of the potential for growth and meaningful impact, even from modest beginnings.
+
+While I am at the early stages of my career, I am committed to continuous learning and personal growth, aspiring to contribute to impactful projects that inspire others.
 
 ## Contact
 
-- Phone number: (+1) 623-889-4796
-- Email: songjeongjun320@gmail.com
+- **Phone**: (+1) 623-889-4796
+- **Email**: songjeongjun320@gmail.com
+- **GitHub**: [songjeongjun320](https://github.com/songjeongjun320)
+
+Thank you for visiting my profile!
