@@ -1,8 +1,3 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+export default {
     output: 'export',
-    basePath: '/songjeongjun320.github.io',
-  };
-  
-  module.exports = nextConfig;
-  
+};
